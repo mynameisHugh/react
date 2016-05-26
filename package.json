@@ -1,0 +1,30 @@
+{
+  "name": "react_es6",
+  "version": "1.0.0",
+  "description": "learnning react and es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameisHugh/react_study.git"
+  },
+  "keywords": [
+    "react",
+    "es6",
+    "webpack",
+    "node"
+  ],
+  "author": "hugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynameisHugh/react_study/issues"
+  },
+  "homepage": "https://github.com/mynameisHugh/react_study#readme",
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-tools": "^0.13.3"
+  }
+}
