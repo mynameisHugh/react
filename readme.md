@@ -1,6 +1,6 @@
 #react 使用说明 
 
-##react-router@2.4.1使用说明见readme_route.md
+##react-router@2.4.1使用说明见[readme_route.md](https://github.com/mynameisHugh/react_study/blob/master/readme_route.md)
 
 --------
 ##安装

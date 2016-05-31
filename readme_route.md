@@ -2,7 +2,7 @@
 
 ###第一次接触react-route就是这个版本，和以前的版本有很大的差异，特写了个文档方便记忆。
 ###此处仅做测试，直接页面引用，未在服务端使用。
-###Demo示例在lesson8.html中。
+###Demo示例在lesson8.html中。源代码在[class_8.js中](https://github.com/mynameisHugh/react_study/blob/master/lesson/src/class_8.js)
 
 ##安装
 
