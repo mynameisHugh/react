@@ -12,6 +12,7 @@
   },
   "keywords": [
     "react",
+    "react-router",
     "es6",
     "webpack",
     "node"
